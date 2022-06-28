@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding:0;
+    background:whitesmoke;
+    justify-content: center;
+    text-align: center;
+}
+.howto{
+    color:#658cbb;
+}
+.redtitle{
+    color:red;
+    text-align: center;
+}
+button{
+    border-radius: 100px;
+}
+button .white-on-red{
+    text-align: center;
+    justify-content: center; 
+    border-radius: 100px;
+    margin-top: 1.5em;
+}
+button:hover{
+    border-color:red; 
+    background: red;
+    color:white;
+}
+input{
+    text-align: center;
+    margin-left: 3em;
+}
+ button submit{
+     padding-right:3em;
+}
+.container{
+    border: 30px solid;
+border-color: #658cbb;
+}
