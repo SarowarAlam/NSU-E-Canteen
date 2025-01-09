@@ -82,7 +82,7 @@ The system was optimized for performance, with metrics showing:
 ![image](https://github.com/user-attachments/assets/fd648fa9-6c55-471d-bf53-2a141e308321)
 
 
-- Admin Userlist Optimization.
+- Admin Userlist Optimization: 91% performance.
 
 ![image](https://github.com/user-attachments/assets/1945d232-7f45-4dce-b5b5-bbadf38b63fa)
 
