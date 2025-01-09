@@ -3,6 +3,14 @@
 ## Project Overview
 The **NSU E Canteen** is a web-based cafeteria management system for North South University (NSU) students. It streamlines food ordering from Kashundi, reducing wait times and ensuring a smooth ordering experience. The system features three panels for users, shop owners, and administrators, each tailored to their specific needs.
 
+![image](https://github.com/user-attachments/assets/bf44af33-2d9b-47a8-bb66-522f303df412)
+
+![image](https://github.com/user-attachments/assets/b7b04bbc-c7e2-4dab-b4f4-044dc1ae691f)
+
+![image](https://github.com/user-attachments/assets/c83646c3-b5d7-438c-b25d-06a15635b26e)
+
+
+
 ## Features
 ### User Features:
 - View available food items, including descriptions and prices.
@@ -26,7 +34,10 @@ The system architecture is designed for efficiency and scalability, leveraging t
 - **Backend:** Database management for users, orders, and menus.
 - **Performance Optimization:** Techniques to ensure smooth operation across all modules.
 
-![Architecture Diagram](Page-16.png)
+
+![image](https://github.com/user-attachments/assets/d3578db6-bbba-4628-8523-5140d75b69f7)
+
+
 
 ## Use Cases
 ### 1. Create a New User Account
@@ -54,25 +65,34 @@ The system architecture is designed for efficiency and scalability, leveraging t
 - **Description:** Make online payments via mobile apps, banking systems, or cards. Generate a token for order retrieval.
 - **Outcome:** Payment confirmation and token display.
 
-(For a complete list of use cases, refer to the full document.)
-
-## Development Plan
-A phased development approach was adopted:
-- **June 15:** Project Proposal and Use Case Diagram.
-- **June 29:** Interface design and HTML/CSS/JS development.
-- **July 27:** Backend integration with PHP and MySQL.
-- **August 3:** Hosting and API integration.
-- **August 10:** Mock demo.
-- **August 24:** Final project demo.
-
 ## Optimization Metrics
 The system was optimized for performance, with metrics showing:
 - Admin Dashboard: 91% performance.
+
+![image](https://github.com/user-attachments/assets/8299d53c-672e-49fe-839d-d84e997da7de)
+
+  
 - Admin Menu: 96% performance.
+
+![image](https://github.com/user-attachments/assets/8507de82-4aab-45ff-b65e-be791f01d6d2)
+
+
 - Admin Profile: 97% performance.
+
+![image](https://github.com/user-attachments/assets/fd648fa9-6c55-471d-bf53-2a141e308321)
+
+
+- Admin Userlist Optimization.
+
+![image](https://github.com/user-attachments/assets/1945d232-7f45-4dce-b5b5-bbadf38b63fa)
+
 - User Login: 82% performance.
 
-(Refer to the Performance Optimization section for details.)
+![image](https://github.com/user-attachments/assets/8d6494c4-ad07-408f-8d00-1d5743126799)
+
+
+
+
 
 ## References
 - [W3Schools](https://www.w3schools.com/whatis/)
