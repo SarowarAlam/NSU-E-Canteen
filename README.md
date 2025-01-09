@@ -90,4 +90,13 @@ The system was optimized for performance, with metrics showing:
 
 ![image](https://github.com/user-attachments/assets/8d6494c4-ad07-408f-8d00-1d5743126799)
 
+---
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
+
 
