@@ -91,13 +91,3 @@ The system was optimized for performance, with metrics showing:
 ![image](https://github.com/user-attachments/assets/8d6494c4-ad07-408f-8d00-1d5743126799)
 
 
-
-
-
-## References
-- [W3Schools](https://www.w3schools.com/whatis/)
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
-- [Geeks for Geeks](https://www.geeksforgeeks.org/web-development/)
-
----
-
